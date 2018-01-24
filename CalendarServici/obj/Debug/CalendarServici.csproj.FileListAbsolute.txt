@@ -1,0 +1,17 @@
+d:\becud\documents\visual studio 2015\Projects\CalendarServici\CalendarServici\bin\Debug\CalendarServici.exe.config
+d:\becud\documents\visual studio 2015\Projects\CalendarServici\CalendarServici\bin\Debug\CalendarServici.exe
+d:\becud\documents\visual studio 2015\Projects\CalendarServici\CalendarServici\bin\Debug\CalendarServici.pdb
+d:\becud\documents\visual studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.csprojResolveAssemblyReference.cache
+d:\becud\documents\visual studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.Properties.Resources.resources
+d:\becud\documents\visual studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.csproj.GenerateResource.Cache
+d:\becud\documents\visual studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.exe
+d:\becud\documents\visual studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.pdb
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.AdaugareElev.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.Meniu.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.AdaugarePereche.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.AdaugaVacanta.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.ListaVacante.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\bin\Debug\EPPlus.xml
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.EditElev.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.EcranAbout.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Debug\CalendarServici.SeteazaPerioada.resources

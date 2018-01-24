@@ -1,0 +1,15 @@
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\bin\Release\CalendarServici.exe.config
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\bin\Release\CalendarServici.exe
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\bin\Release\CalendarServici.pdb
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.AdaugareElev.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.AdaugarePereche.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.AdaugaVacanta.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.EcranAbout.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.EditElev.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.SeteazaPerioada.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.Meniu.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.Properties.Resources.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.ListaVacante.resources
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.csproj.GenerateResource.Cache
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.exe
+D:\becud\Documents\Visual Studio 2015\Projects\CalendarServici\CalendarServici\obj\Release\CalendarServici.pdb
